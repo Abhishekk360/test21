@@ -6,6 +6,7 @@ namespace Demoswed
 	{
 		public gästgiveri ()
 		{
+			Console.WriteLine("hello");
 		}
 	}
 }

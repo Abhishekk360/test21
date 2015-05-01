@@ -6,7 +6,9 @@ namespace Demoswed
 	{
 		public västgöte ()
 		{
+			Console.WriteLine ("hello");
 		}
+
 	}
 }
 
